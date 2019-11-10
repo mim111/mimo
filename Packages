@@ -58,7 +58,7 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 dev: arpadgoretity
 Section: Development
 Tag: purpose::library, role::developer
-Installed-Size: 58
+Size: 58
 FMD5sum: e1056a7b253aa2c3a605a0123748c22a
 SHA256: 491fda77c8165fd27ddcd647b986476c940f6082d93b984dc6ccd3b95d5d8f79
 SHA1: 10d2c549bcdbe419c363746bf70c5547a96178fb
