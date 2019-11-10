@@ -30,17 +30,16 @@ Description: Free Premium GeoZilla
 Author: SarahH12099
 Name: GeoZilla++
 
- new Debian package, version 2.0.
- size 54954 bytes: control archive=363 bytes.
-     336 bytes,    10 lines      control              
- Package: com.spark.easyswitcherx
- Name: EasySwitcherX
- Depends: mobilesubstrate, preferenceloader
- Architecture: iphoneos-arm
- Description: Swipe up on apps in the switcher to kill them, without having to press and hold (iPhone X - how it should have been)
- Maintainer: Spark
- Author: Spark
- Section: Tweaks
- Version: 0.0.7
- Installed-Size: 352
-
+Package: com.spark.easyswitcherx
+Name: EasySwitcherX
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Swipe up on apps in the switcher to kill them, without having to press and hold (iPhone X - how it should have been)
+Maintainer: Spark
+Author: Spark
+Section: Tweaks
+Version: 0.0.7
+Size: 352
+MD5sum: 9ff60b2b95d4fe233ec41b9884212ee7
+SHA1: 3ba3462346597087b08551718e0b4e862d4043fc
+SHA256: 49cea62529af1d1049c28185768ff971d3745b081cf5e817302bb484682cd730
