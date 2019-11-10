@@ -1,0 +1,32 @@
+Package: net.hollr2099.activatorpp
+Version: 1.0.0.3
+Architecture: iphoneos-arm
+Maintainer: SarahH12099
+Installed-Size: 117
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./debs/Activator.deb
+Size: 4056
+MD5sum: b3f67b87b1cbf5114f98b78b67eff298
+SHA1: da27f96534d746afd5837ead61c5eeb0213866e4
+SHA256: bbd4ccf1090637cbb28e2511708a7fedfb70df3458af2eed02e96f3b91dbccc9
+Section: Tweaks
+Description: No Ads On Activator From Cydia
+Author: SarahH12099
+Name: Activator++
+
+Package: net.hollr2099.geozillapp
+Version: 1.0.0.0
+Architecture: iphoneos-arm
+Maintainer: SarahH12099
+Installed-Size: 117
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./debs/GeoZilla.deb
+Size: 3704
+MD5sum: 40d0fff0951a464af17050e93b97918f
+SHA1: 1408af483cf5e5200a178472a57cb930df913186
+SHA256: b6dafa6e500a5599cb2dde7aa7c6c8cb35a932d5ebc78edcf9e08014627e488e
+Section: Tweaks
+Description: Free Premium GeoZilla
+Author: SarahH12099
+Name: GeoZilla++
+
