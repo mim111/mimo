@@ -45,20 +45,21 @@ SHA1: 3ba3462346597087b08551718e0b4e862d4043fc
 SHA256: 49cea62529af1d1049c28185768ff971d3745b081cf5e817302bb484682cd730
 
 Package: org.h2co3.bingtranslate
- Depends: org.h2co3.carbonatejson
- Name: BingTranslate.framework
- Version: 0.4
- Architecture: iphoneos-arm
- Description: client library for translate API
- Maintainer: BigBoss <bigboss@thebigboss.org>
- Author: Arpad Goretity (H2CO3) <arpad.goretity@gmail.com>
- Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bingtranslateapiDp
- Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bingtranslateapiDp
- Sponsor: thebigboss.org <http://thebigboss.org>
- dev: arpadgoretity
- Section: Development
- Tag: purpose::library, role::developer
- Installed-Size: 58
- FMD5sum: e1056a7b253aa2c3a605a0123748c22a
- SHA256: 491fda77c8165fd27ddcd647b986476c940f6082d93b984dc6ccd3b95d5d8f79
- SHA1: 10d2c549bcdbe419c363746bf70c5547a96178fb
+Depends: org.h2co3.carbonatejson
+Name: BingTranslate.framework
+Version: 0.4
+Architecture: iphoneos-arm
+Description: client library for translate API
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Arpad Goretity (H2CO3) <arpad.goretity@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bingtranslateapiDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bingtranslateapiDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: arpadgoretity
+Section: Development
+Tag: purpose::library, role::developer
+Installed-Size: 58
+FMD5sum: e1056a7b253aa2c3a605a0123748c22a
+SHA256: 491fda77c8165fd27ddcd647b986476c940f6082d93b984dc6ccd3b95d5d8f79
+SHA1: 10d2c549bcdbe419c363746bf70c5547a96178fb
+
